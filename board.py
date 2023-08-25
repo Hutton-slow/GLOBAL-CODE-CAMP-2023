@@ -61,7 +61,7 @@ def yellowOn():
     yellow.off()
 
 def greenOn():
-    green.on()
+    green.on()AC
     sleep(time)
     green.off()
 
