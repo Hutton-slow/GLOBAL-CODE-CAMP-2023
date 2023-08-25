@@ -6,7 +6,7 @@ from pyowm.utils import config
 from pyowm.utils import timestamps
 
 # ---------- FREE API KEY examples ---------------------
-owm = OWM('9feb8ab55ac666276d6eed156cbec7eb')
+owm = OWM(#API)
 mgr = owm.weather_manager()
 
 place = input("Please enter a city\n")
